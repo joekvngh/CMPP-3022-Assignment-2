@@ -1,0 +1,2 @@
+Cathy,Miners,1995/04/28,f,3.4,3,ITSC,5
+John,Smith,1900/11/20,m,2.6,2,Electrical Engineering,6
