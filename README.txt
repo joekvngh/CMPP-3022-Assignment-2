@@ -10,6 +10,8 @@ PART 2
 
 The source code for part 2 is located in Part_2/studentregistration. In total, there are three java files (ImportStudentList.java, Student.java, StudentRegistration.java), one example text file (StudentList.txt) and a manifest file for building the runnable jar file. StudentRegistration.java contains the main method.
 
+A pdf document containing screenshots of the program output for various test cases can be located in Part_2/test.
+
 To build the program (requires jdk), download the github repository and open a terminal window/command prompt in the folder containing the studentregistration folder. Type "javac studentregistration/StudentRegistration.java studentregistration/Student.java studentregistration/ImportStudentList.java" into your terminal window/command prompt to generate the class files. 
 To run the compiled program, type "java studentregistration/StudentRegistration"
 When prompted to enter the name of a text file, type "studentregistration/StudentList.txt"
