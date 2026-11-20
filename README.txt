@@ -1,4 +1,4 @@
-# CMPP-3022-Assignment-2
+CMPP-3022-Assignment-2
 
 ========================
 INFORMATION
