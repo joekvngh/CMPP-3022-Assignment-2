@@ -21,7 +21,7 @@ If the example text file is in the same directory as the jar file, just type "St
 
 
 
-Part 3
+PART 3
 
 The source code for part 3 is located in Part_3/StudentRegistration. In total, there are three python files (StudentRegistration.py, Student.py, AccessStudentList.py) and one example text file (StudentList.txt).
 
